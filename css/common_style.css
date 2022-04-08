@@ -32,6 +32,9 @@
     --border-thin: 1px solid #FC7D2D;
     --play-bg-color: #FC7D2D;
     --light-bg-gradient: transparent linear-gradient(180deg, #FEDC57 0%, #FC6425 100%) 0% 0% no-repeat padding-box;
+    --table-text-color: #FC7D2D;
+    --deposite-btn-color: #FC7D2D;
+    --withdraw-btn-color: #FFB03A;
 }
 
 html,
